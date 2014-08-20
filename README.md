@@ -97,7 +97,7 @@ With all of their representatives taking percentages of their earnings off the t
 
 Lawyers play big roles in the entertainment industry because, like agents and managers, they are paid on commission, are part of the team responsible for getting entertainment products made, and are key to protecting rights and getting people paid. What do entertainment lawyers do? No easy answer will suffice, only a bland one, namely, they provide legal services to those who work in the entertainment industry.  
 
-A lawyer drafting or editing a contract for a poet whose works will soon appear in a free literary rag or on a poetry website and the lawyers responsible for drafting [Beyonce's $50 million deal][beyonce50] with Pepsi are all working in the entertainment industry, because after all: What is entertainment? 
+A lawyer drafting or editing a contract for a poet whose works will soon appear in a free literary rag or on a poetry website and the lawyers responsible for drafting [Beyonce's $50 million deal] [beyonce50] with Pepsi are all working in the entertainment industry, because after all: What is entertainment? 
 
 Entertainment lawyers often help clients "do deals" for professional artistic services or for "rights" (intellectual property). Lawyers may work with talent agents or managers from the beginning to help negotiate terms, or they may be called in only after to "paper" an agreement that is already memorialized in a deal memo. When deals fall apart, the parties may end up in litigation or arbitration. 
 
