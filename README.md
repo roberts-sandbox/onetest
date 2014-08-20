@@ -123,7 +123,7 @@ You should spend time getting to know the following resources.
     * [BMI repertoire search](http://repertoire.bmi.com/startpage.asp)
 
 
-[beyonce50]:	http://www.nytimes.com/2012/12/10/business/media/in-beyonce-deal-pepsi-focuses-on-collaboration.html	"Beyonce's Deal With Pepsi"
+[beyonce50]:http://www.nytimes.com/2012/12/10/business/media/in-beyonce-deal-pepsi-focuses-on-collaboration.html	"Beyonce's Deal With Pepsi"
 [wipo]:		http://www.wipo.int/about-ip/en/	"World Intellectual Property Organization"
 [showrunners]:	http://www.kickstarter.com/projects/showrunnersfilm/showrunners-a-documentary-film	"Documentary on Showrunners"
 [thresq]:	http://www.hollywoodreporter.com/blogs/thr-esq "The Hollywood Reporter Esq."
