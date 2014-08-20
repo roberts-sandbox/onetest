@@ -128,5 +128,5 @@ You should spend time getting to know the following resources.
 [showrunners]:	http://www.kickstarter.com/projects/showrunnersfilm/showrunners-a-documentary-film	"Documentary on Showrunners"
 [thresq]:	http://www.hollywoodreporter.com/blogs/thr-esq	"The Hollywood Reporter Esq."
 [patsy]:	http://quoteinvestigator.com/2011/07/09/poker-patsy/	"patsy at the poker table"
-[4ever-1day]:	http://www.youtube.com/watch?v=tk862BbjWx4	"Forever Less One Day: Copyright"
+[4ever-1day]:	http://www.youtube.com/watch?v=tk862BbjWx4 "Forever Less One Day: Copyright"
 [vine]:	https://vine.co/	"Vine"
